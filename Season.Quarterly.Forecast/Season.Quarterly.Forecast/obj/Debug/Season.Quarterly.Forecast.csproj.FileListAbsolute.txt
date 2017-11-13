@@ -1,0 +1,10 @@
+C:\Users\Lilian\source\repos\Season.Quarterly.Forecast\Season.Quarterly.Forecast\bin\Debug\Season.Quarterly.Forecast.exe.config
+C:\Users\Lilian\source\repos\Season.Quarterly.Forecast\Season.Quarterly.Forecast\bin\Debug\Season.Quarterly.Forecast.exe
+C:\Users\Lilian\source\repos\Season.Quarterly.Forecast\Season.Quarterly.Forecast\bin\Debug\Season.Quarterly.Forecast.pdb
+C:\Users\Lilian\source\repos\Season.Quarterly.Forecast\Season.Quarterly.Forecast\obj\Debug\Season.Quarterly.Forecast.csprojResolveAssemblyReference.cache
+C:\Users\Lilian\source\repos\Season.Quarterly.Forecast\Season.Quarterly.Forecast\obj\Debug\Season.Quarterly.Forecast.Form1.resources
+C:\Users\Lilian\source\repos\Season.Quarterly.Forecast\Season.Quarterly.Forecast\obj\Debug\Season.Quarterly.Forecast.Properties.Resources.resources
+C:\Users\Lilian\source\repos\Season.Quarterly.Forecast\Season.Quarterly.Forecast\obj\Debug\Season.Quarterly.Forecast.csproj.GenerateResource.Cache
+C:\Users\Lilian\source\repos\Season.Quarterly.Forecast\Season.Quarterly.Forecast\obj\Debug\Season.Quarterly.Forecast.csproj.CoreCompileInputs.cache
+C:\Users\Lilian\source\repos\Season.Quarterly.Forecast\Season.Quarterly.Forecast\obj\Debug\Season.Quarterly.Forecast.exe
+C:\Users\Lilian\source\repos\Season.Quarterly.Forecast\Season.Quarterly.Forecast\obj\Debug\Season.Quarterly.Forecast.pdb
